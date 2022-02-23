@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dying man's last legacy, or, Pious and affectionate exhortations to a holy life as it was left by a dying man to his wife, children, and servants, for their improvement after his death, and for the advantage of every true Christian.</title>
+            <author>F. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42056</idno>
+            <idno type="STC">Wing G19</idno>
+            <idno type="STC">ESTC R40432</idno>
+            <idno type="EEBO-CITATION">19319643</idno>
+            <idno type="OCLC">ocm 19319643</idno>
+            <idno type="VID">108598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108598)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dying man's last legacy, or, Pious and affectionate exhortations to a holy life as it was left by a dying man to his wife, children, and servants, for their improvement after his death, and for the advantage of every true Christian.</title>
+                  <author>F. G.</author>
+               </titleStmt>
+               <extent>1 broadside : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: F.G.</note>
+                  <note>In three columns.</note>
+                  <note>Imperfect: stained with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life.</term>
+               <term>Religious life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:108598:1" rendition="simple:additions"/>
+            <head>The Dying Man's Laſt Legacy OR, PIOUS and AFFECTIONATE EXHORTATIONS TO A HOLY LIFE.</head>
+            <head type="sub">AS IT Was left by a Dying Man to his Wife, Children, and Servants, for their Improvement after his Death, and for the Advantage of every true Chriſtian.</head>
+            <opener>
+               <salute>My Deareſt Wife,</salute>
+            </opener>
+            <p>WEll might the Ancient <hi>Philoſopher</hi> call Death, that <hi>Terrible of Terribles,</hi> ſince it is ſo perfectly oppoſite to Nature; and Life is that which every indivi<g ref="char:EOLhyphen"/>dual Animal ſo much covers to Maintain; for I would fain know and ſee that Man that is a rational Creature, who when that Minute comes wherein there will be a total Diſſolu<g ref="char:EOLhyphen"/>tion of Soul and Body, and a perfect Annihi<g ref="char:EOLhyphen"/>lation of his Worldly Being, does not either recieve it with great Regret, or elſe with Fear and Trembling; and if it be ſo that the <hi>Hea<g ref="char:EOLhyphen"/>thens</hi> had ſuch a ſenſe of this diſmal Hour, that knew nothing they were to give an Ac<g ref="char:EOLhyphen"/>count of, upon their Departure; well may thoſe dread it who have heard of <hi>Chriſtianity,</hi> ſince they muſt know that there is nothing that they have been culpable of, or deficient in through their whole Lives, but they muſt immediately upon their Expiration, give a ſevere and ſtrict account of. They further call <hi>Hora Mortis, Hora Virtutis,</hi> and I am ſure (and every good Chriſtian will acquieſs with me) it ought to be ſo with every Chriſtian, that in<g ref="char:EOLhyphen"/>tends to ſee the Face of God and his ever <hi>Bleſ<g ref="char:EOLhyphen"/>ſed Redeemer,</hi> with Comfort and Satisfaction. Upon this hour depends the Being, and well Being of Soul and Body to all Eternity. Up<g ref="char:EOLhyphen"/>on this hour depends the everlaſting Happi<g ref="char:EOLhyphen"/>neſs, or Miſery of unhappy Man: How much then ought every Soul to look after, and hour<g ref="char:EOLhyphen"/>ly conſider this fatal Hour, than which nothing is more certain, than which nothing more un<g ref="char:EOLhyphen"/>certain; the eternal God reſerving it wholly to himſelf, that we might be always in a readineſs and not in the leaſt Concerned, or dread it, when it ſhall pleaſe him to cauſe its Approach.</p>
+            <p>But, my Dear, not to be too tedious in Generals, I ſhall deſcend to ſome particular Conſiderations, which immediately concern you as a Wife, and a Mother to Children; and I do not queſtion your peruſal of them, not only becauſe they were left you by one who, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo near you, but eſpecially becauſe I leave them <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e laſt <hi>Legacy</hi> you ever ſhall recieve of me in thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld: and they ſay the words of Dying Men <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a greater Impreſſion upon the Reader, than any other whatſoever.</p>
+            <p>Firſt then as a Wife, do not Lament and Grieve at the ſevere and heavy diſpenſation of the Almighty who knows what is beſt for every one, and no doubt lays it upon me, to bring me to himſelf, and has been pleaſed in his great Wiſdom to put a Period to my Earthly Being, in order to bring me home to him. Therefore <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e you do not Repine at that which it has pleaſed our <hi>Heavenly</hi> Father to lay upon me. He always knows what is beſt for us, and hath pro<g ref="char:EOLhyphen"/>miſed not to lay <hi>more upon his Creatures than they are able to bear</hi>; and that if he lays great Afflictions upon them, he will give them great Patience to undergo them. When you find your Spirit ſinking, Support it with the reflection of the former great goodneſs of God, in making us amongſt his rational Crea<g ref="char:EOLhyphen"/>tures, but not only ſo, but alſo becauſe he has been pleaſed to give us in a large meaſure all thoſe things that the World affords; not only Neceſſaries, (which conſidered ſtrictly in themſelves, are much more then we could reaſonably expect at his Hands, I am ſure much more than we deſerve; for our manifold Enormities, whereby we have ſo often offended ſo good and gracious a God) but even Extraordina<g ref="char:EOLhyphen"/>ries too, ſo that we may very well ſay with the holy <hi>Pſalmiſt, My Cup runneth over.</hi>
+            </p>
+            <p n="2">II. Be always thinking what things he has done for others, and believe that he is able to make up the loſs that you at preſent undergo (if he ſees it fit for your good) for he has graciouſly promiſed, to bea <hi>Father to the Fatherleſs and a Husband to the Wid<g ref="char:EOLhyphen"/>dow.</hi> I ſay, undergo deprivation with patience, and conſider that this parting is but for a little time, it will not be long before we ſhall again meet in Hea<g ref="char:EOLhyphen"/>ven, there to ſing Eternal <hi>Hallelujahs</hi> to the ever Bleſſed Trinity, with whom is <hi>Fullneſs of Joy, and at whoſe Right-Hand are pleaſures for Evermore</hi>; where we ſhall ever remain in the fruition of all things that can yield true ſatisfaction to the Soul of Man; and that not for an Hour, a Day, a Week, an Year, but to all Eternity; where we ſhall never part more. Oh! Bleſſed, and for ever Bleſſed be that God, that is ſo good to his Creatures, to provide ſuch a Place for them.</p>
+            <p n="3">III. Let not the conſideration of the Way being Strait and covered with <hi>Thorns</hi> and <hi>Briers,</hi> in the leaſt diſmay or perplex thee; but conſider that the Happineſs and Enjoyment will be much more ſweet and pleaſant; conſider that through this rugged Path God brings all his Servants unto their everlaſting Reſt. And ſhall we repine at this his holy will, when he intends ſo much good to us? Nay, when its duration is but ſhort, and our Travel little, in compariſon of thoſe innumerable Bleſſings and hap<g ref="char:EOLhyphen"/>pineſs we ſhall enjoy with him for Ever and Ever.</p>
+            <p n="4">IV. Let your private Prayers and Acceſſes to the Throne of Grace be often; be no Stranger at the Gate of Mercy, while there is an Ear of favour open; and be encouraged, ſince God hears the cry of the Widdow to defend her from all Dangers.</p>
+            <p n="5">V. Be alſo frequent in reading and conſulting the holy <hi>Scriptures</hi>; they are the Oracles of Truth, and there you may find the Treaſures of Wiſdom and Knowledge; thence you may ſuck Promiſes, that will be as Milk flowing from the Breaſts of true Con<g ref="char:EOLhyphen"/>ſolation. Oh! can I ſay it truly that from thoſe Fountains have ſtreamed ſuch Cordials into my Soul, as now enable me to go through with this great ſharp<g ref="char:EOLhyphen"/>neſs of Death.</p>
+            <p n="6">VI. Then for thy Servants, Beſure that they that abide in thy Houſe may be ſuch as are of Honeſt Con<g ref="char:EOLhyphen"/>verſation, that in their Lives they may <hi>Adorn the Doctrine of God our Saviour in all things</hi>; and be ſure thy own Example may be a direction to them, and Reproof alſo if they do amiſs. This I thought fit to leave for your direction in the relation of a Mother and Governeſs of thy Family. But becauſe the Words of a Father Deceaſed may have ſome Influence on my dear Children, to them therefore I ſhall leave ſomthing as a Fathers <hi>Legacy</hi> among them.</p>
+            <p n="7">VII. As a mother, Beſure you bring up your Children in the <hi>Nurture and fear of the Lord,</hi> and if ſo, you need not be Sollicitous for them, for God has promiſed to provide for, and take care of thoſe that fear him. Be not over In<g ref="char:EOLhyphen"/>dulgent, for the ſparing the <hi>Rod,</hi> has often ſpoil<g ref="char:EOLhyphen"/>ed the Child. Let not thine Eye pity the Correction of thy Children: Firſt give it ſo that they may be ſure to enable all thoſe God<g ref="char:EOLhyphen"/>ly Exhortations and Admonitions, which you ſhall give them from time to time, and when they come to Years it will never be forgot<g ref="char:EOLhyphen"/>ten; for <hi>Train up a Child in the way he ſhould go, and when he is Old he will not depart from it.</hi> I could add many things, but my time being ſhort, I am forced to be ſo too; but becauſe as I ſaid before, the words of Dying Men have a more than ordinary influence upon the Survivers, eſpecialty where they admit of ſo near a Relation; I ſhall therefore conclude with this ſhort Moity to my Children.</p>
+            <div type="letter">
+               <opener>
+                  <salute>My Dear Children,</salute>
+               </opener>
+               <p>THo you are but Young and tender, yet when you come to Years of Diſcretion, then you may think of, and put in practice this laſt Advice of your Dying Father: Be obedient to your Mother in all things, leſt you add to her preſent Affliction, to whom I refer you for all other wholſome Advice and Godly Inſtructions, and ſhall only add this one particular Head: Beſure to avoid that Tympany of the Mind, I mean Ambition than which nothing is more Ridiculous, and nothing more unbecoming a Man; that which has been the Ruine of Thouſands, which <hi>Phaeton</hi> like, ſoaring too high by the Wings of Ambition, have fallen un<g ref="char:EOLhyphen"/>der hard Deſtinies; and let them be as a Sea-mark, that you may avoid ſplitting on that Rock, which was their Ruine, and then you'll be Happy. Beſure you remember this as the laſt Council of</p>
+               <closer>
+                  <signed>Your Dying Father <hi>F. G.</hi>
+                  </signed>
+               </closer>
+               <trailer type="illustration">
+                  <figure>
+                     <figDesc>depiction of F. G. (author)</figDesc>
+                  </figure>
+               </trailer>
+            </div>
+            <div type="prayer">
+               <head>His PRAYER.</head>
+               <p>
+                  <hi>O</hi> Moſt Gracious and for ever Bleſſed Lord God, I hum<g ref="char:EOLhyphen"/>bly beſeech thee, through the Merits and Mediation of thy Son <hi>Jeſus Chriſt,</hi> to blot out all my Iniquities, and not ſuffer them to riſe in Judgment againſt me, but give me ſuch a portion of thy Grace, that I may withſtand all Temptations, as well Ghoſtly as Bodily. Give me, I beſeech thee a ſure hope and confidence in the propitiatory Sufferings and Sacrifice of my Lord and Saviour <hi>Jeſus Chriſt.</hi> Ac<g ref="char:EOLhyphen"/>cept of his Death and Paſſion as an Attonement for my manifold Enormities, and ſo purifie my Heart from all ſin<g ref="char:EOLhyphen"/>ful and Worldly Corruption, that after the expiration of this Mortal Life, I may riſe to eternal Glory. And with me, O Lord, I beſeech thee Bleſs the whole Race of Mankind, but in a more eſpecial manner all thoſe to whom I am ſo near and dearly Related. Prevent them, O Lord, in all their doings with thy moſt Gracious Favour, and further them with thy conninual Help, that in all their Works they may Glorifie thy Holy Name; Grant this for <hi>Jeſus Chriſt</hi>'s Sake, into whoſe Hands I recommend my Spirit. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed.</p>
+            <closer>
+               <signed>Rob. Midgley.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blue-Ball</hi> in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynard</hi>'s-<hi>Castle.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
